@@ -1,3 +1,6 @@
+Refactoring of Gilded Rose Kata, original JS can be seen in OriginalJS file. 
+
+
 Adalab
 ======
 
